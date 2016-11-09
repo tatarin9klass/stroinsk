@@ -3094,6 +3094,8 @@
 /* Header */
 
 	#header {
+		margin-top:-9%;
+		margin-bottom:-5%;
 		padding: 5em 5em 1em 5em ;
 		text-align: center;
 	}
